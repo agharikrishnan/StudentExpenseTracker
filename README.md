@@ -1,1 +1,2 @@
 # StudentExpenseTracker
+Student Expense Tracker is a user-friendly application designed to help students manage their daily expenses and maintain better financial habits. It allows users to record income and expenses, categorize transactions, monitor spending patterns, and view summaries of their financial activity. With an intuitive interface and organized reports, the application helps students stay within their budget, reduce unnecessary spending, and make informed financial decisions.
